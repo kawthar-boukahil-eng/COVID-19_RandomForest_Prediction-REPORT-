@@ -1,5 +1,5 @@
 # Prediction of COVID-19 Confirmed Cases and Deaths using Random Forest Regressor
-
+![report](https://github.com/kawthar-boukahil-eng/COVID-19_RandomForest_Prediction-REPORT-/blob/main/COVID-19_RandomForest_Prediction-REPORT.png)
 ## Abstract:
 This project explores the prediction of COVID-19 confirmed cases and deaths using the Random Forest Regressor model. We utilized Python libraries such as NumPy, Pandas, and Scikit-learn to analyze the data and generate predictions. Statistical analysis and visualizations, including heatmaps, bar plots, and line plots, helped to present the findings. The results demonstrate a good prediction accuracy based on several evaluation metrics.
 
